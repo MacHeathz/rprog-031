@@ -1,0 +1,17 @@
+{
+    "contents" : "library(testthat)\n\nsource(\"complete.R\")\ncontext(\"Complete?\")\n\n",
+    "created" : 1439056142779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4099460709",
+    "id" : "7D7CF2F3",
+    "lastKnownWriteTime" : 1439056254,
+    "path" : "~/R/Coursera/assignments/rprog-1/test-complete.R",
+    "project_path" : "test-complete.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

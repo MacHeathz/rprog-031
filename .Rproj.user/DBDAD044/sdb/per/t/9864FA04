@@ -1,0 +1,17 @@
+{
+    "contents" : "library(testthat)\n\nsource(\"pollutantmean.R\")\ncontext(\"Pollutant Mean\")\n\n",
+    "created" : 1439056168591.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3084972867",
+    "id" : "9864FA04",
+    "lastKnownWriteTime" : 1439056252,
+    "path" : "~/R/Coursera/assignments/rprog-1/test-pollutantmean.R",
+    "project_path" : "test-pollutantmean.R",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
